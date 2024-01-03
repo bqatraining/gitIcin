@@ -1,5 +1,4 @@
 test
-ssadas
-dosyada değişiklik yapıldı.
 
-değişiklik son
+
+Değişiklikler tamamlandı, commit yapılacak.
